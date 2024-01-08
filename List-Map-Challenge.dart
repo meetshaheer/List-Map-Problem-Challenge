@@ -17,7 +17,8 @@ void main(List<String> args) {
       }
     }
   ];
-
+  print(haha);
+  print(haha);
   // dont see below line before your own logic. First solve using your own thinking.
   //
   //
@@ -42,5 +43,5 @@ void main(List<String> args) {
   //
   //
 
-  print(haha[2][1]["hehe"][0]["hehe"]["haha"]);
+  // print(haha[2][1]["hehe"][0]["hehe"]["haha"]);
 }
